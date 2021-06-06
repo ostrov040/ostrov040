@@ -1,8 +1,5 @@
-### Hi there 👋
 
 <!--
-**ostrov040/ostrov040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Untitled](https://user-images.githubusercontent.com/45271583/120933732-734bb680-c6c9-11eb-8e92-5a92aea978e5.png)
