@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 ![Not Found](https://user-images.githubusercontent.com/45271583/120934833-efe09400-c6cd-11eb-96ff-c456f15aa0fa.png)
 
-:fox_face: [Gitlab](https://gitlab.com/ostrov040) 
-| :question: [Stack Overflow](https://stackoverflow.com/users/10333202/ostrov040?tab=profile)
+[:fox_face: Gitlab](https://gitlab.com/ostrov040) 
+| [:question: Stack Overflow](https://stackoverflow.com/users/10333202/ostrov040?tab=profile)
