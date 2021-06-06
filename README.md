@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Not Found](https://user-images.githubusercontent.com/45271583/120934833-efe09400-c6cd-11eb-96ff-c456f15aa0fa.png)
+![Banner](https://user-images.githubusercontent.com/45271583/120937985-97fe5900-c6de-11eb-862e-fa6e448f39a7.png)
+
 
 [:fox_face: Gitlab](https://gitlab.com/ostrov040) 
 | [:question: Stack Overflow](https://stackoverflow.com/users/10333202/ostrov040?tab=profile)
